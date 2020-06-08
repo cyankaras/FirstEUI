@@ -1,10 +1,15 @@
 {
-  "1728aac67ce": {
-    "path": "../resource/custom/GameBegin.ts",
-    "class": "GameBegin",
-    "parentPath": ""
-  },
-  "global": {
-    "globalAutoLayerMarkEnable": true
-  }
+    "1728aac67ce": {
+        "path": "../resource/custom/GameBegin.ts",
+        "class": "GameBegin",
+        "parentPath": ""
+    },
+    "global": {
+        "globalAutoLayerMarkEnable": true
+    },
+    "1729467b5da": {
+        "path": "../resource/custom/ImageCompment.ts",
+        "class": "ImageCompment",
+        "parentPath": ""
+    }
 }

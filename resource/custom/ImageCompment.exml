@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ImageCompmentSkin" width="600" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1729467b5da" ></w:Config>
+	<e:Image width="458" height="198" x="71" y="469" source="beginButton_jpg" anchorOffsetX="0" anchorOffsetY="0" scale9Grid="0,0,100,50"/>
+</e:Skin>
