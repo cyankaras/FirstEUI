@@ -18,6 +18,16 @@ var GameBegin = (function (_super) {
     };
     GameBegin.prototype.childrenCreated = function () {
         _super.prototype.childrenCreated.call(this);
+        this.init();
+    };
+    //初始化操作
+    GameBegin.prototype.init = function () {
+        //给beginButton绑定事件
+        this.beginButton.addEventListener(egret.TouchEvent.TOUCH_TAP, this.tapHandler, this);
+    };
+    //响应函数
+    GameBegin.prototype.tapHandler = function (e) {
+        alert('点击成功');
     };
     return GameBegin;
 }(eui.Component));

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="GameBeginSkin" width="600" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
-	<w:Config id="1728aac67ce" ></w:Config>
-	<e:Image source="bg_jpg" x="298.63" y="570" anchorOffsetX="114.13" anchorOffsetY="121.25" width="231" height="257"/>
-</e:Skin>
